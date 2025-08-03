@@ -154,7 +154,7 @@
 			<!-- <appender-ref ref="console" /> -->
 			<appender-ref ref="file" />
 		</root>
-		<root level="ERROR">
+		<root level="debug">
 			<appender-ref ref="file_error" />
 			<!-- <appender-ref ref="DB-CLASSIC-MYSQL-POOL" /> -->
 		</root>
